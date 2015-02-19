@@ -10,7 +10,7 @@ La branche *master* contient tous les documents validés par le bureau et, si n�
 
 Les autres branches sont des copies de travail n'ayant pas encore été validées ou ayant été refusées.
 
-Les documents de la branche 2014-ag ont été refusés en AG (2014).
+Les documents de la branche 2014-ag ont été refusés en AG (2014).  
 Les documents des branches 2015-proposition-* sont en attente de validation (pour l'ag 2015)
 
 ## Conseils
