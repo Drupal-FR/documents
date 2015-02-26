@@ -62,3 +62,24 @@ Tous les frais validés dans le budget.
 | __Déplacement__ : transport en commun, frais kilométriques, stationnement, location de véhicule, ... | __cas particulier__ : stationnement pour livraison urgente pour un événement, ou déplacement lors d’un scholarship |
 | __Téléphonie__ : connexion mobile, fixe, abonnement internet, frais supplémentaire liés à la téléphonie, accès wifi payant, ... | __cas particulier__ : accès à un réseau pour une réunion organisée par l’association pour le membre réalisant la transmission |
 | __Hébergement__ : réservation d’hotel, location d’appartement, ...  | __as particulier__ : hébergement pour un invité d’un événement |
+
+## Activités de l'association
+
+### Rôle du Bureau
+
+Le Bureau porte l'ensemble des charges administratives liées au fonctionnement de l'association et à l'organisation d'événement.
+Le Bureau porte l'ensemble des responsabilités sur les événements organisés.
+Le Bureau n'est pas en charge de l'animation de l'association, mais plus le garant de son bon fonctionnement.
+
+### Groupe de travail / actifs
+
+Les groupes locaux et d'actifs sont les acteurs de l'association.
+Les groupes locaux sont en charge de l'organisation locale sur le territoire des activités de l'association. (voir article 2)/
+
+Le groupe d'actif est composé de membres de l'association. Il est composé de commissions qui organisent les actions. A chaque commission un responsable est nommé, par le groupe. Il sera en charge de coordonner les forces et les actions de la commission.
+Les membres des actifs ne sont pas élus. Les adhérents désirant participer activement à la vie de l'association peuvent se déclarer aux membres du bureau ou au responsable d'une des commissions.
+
+Les organisations des différentes commission sont autonomes et gérées par le responsable de la commission. Il veillera toutefois à communiquer sur l'avancement de ses actions.
+
+Les décisions prises par la commission seront validées en accord avec les membres de la commission. S'il y a un litige le Bureau pourra intervenir.
+
