@@ -35,7 +35,7 @@ Toute personne physique ou morale peut devenir membre de l’association selon l
 La demande d’adhésion doit être formulée par écrit ou par voie électronique. Le demandeur est tenu de s’acquitter du montant de la cotisation en vigueur lors de l’inscription valable un an de date à date. Ce montant est fixé par le Règlement intérieur, il est variable selon les catégories de membres et d’autres critères fixés par le Règlement intérieur.
 
 ## Article 6 – Perte de la qualité de membre
-La qualité de membre se perd automatiquement par la démission formulée par écrit, ou par le décès, ou par fin de la période d’adhésion fixée à un an.
+La qualité de membre se perd automatiquement par la démission formulée par écrit, ou par le décès, ou par fin de la période d’adhésion fixée à un an date à date.
 Elle peut également se perdre par la radiation prononcée par l’Assemblée générale dans les conditions fixées par les présents statuts et le Règlement intérieur.
 
 ## Article 7 – Ressources
@@ -69,14 +69,12 @@ La convocation aux réunions de l’Assemblée générale se fait de manière é
 Les membres de l’Assemblée générale ont la possibilité d’assister aux réunions de l’Assemblée générale par l’intermédiaire d’un moyen de communication électronique permettant de les identifier formellement.
 
 ## Article 9 - Bureau
-Le Bureau est composé au minimum des personnes suivantes : un président, un secrétaire général et un trésorier. Il doit s’agir de trois personnes physiques distinctes. Le Bureau est élu par l’Assemblée générale parmi les membres de l’association. Les membres du Bureau sont élus pour un mandat d’un an renouvelable.
+L'assemblée générale vote pour élire les trois postes du bureau : un président, un trésorerie et un secrétaire. L'assemblée peut élire en plus trois autre personne en qualité de suppléant à chacun de ces postes. Le Bureau peut-être composé au maximum de six personnes. Le Bureau est élu, au suffrage direct, par l’Assemblée générale parmi les membres de l’association, à jour de leur cotisation. Les membres du Bureau sont élus pour un mandat d’un an renouvelable.
 
 ### 9.1 Élection du Bureau
 * Est éligible tout membre majeur à jour de cotisation, faisant partie de l'association depuis au moins six mois ou reconnu comme actif dans la communauté Drupal par le bureau, et qui respecte le caractère open source et communautaire du projet Drupal.
 * Est électeur tout membre de l’association majeur et à jour de cotisation.
-* Les membres qui obtiennent la majorité (plus de 50%) des votes exprimés sont élus au Bureau
-* Le membre qui obtient le plus de votes est élu Président du Bureau
-* Les autres postes sont attribués de façon collégiale lors de la première réunion du Bureau
+* Le membre qui s'est présenté sur un poste donné et qui obtiennent la majorité (plus de 50%) des votes exprimés est élu au poste.
 
 Les modalités du suffrage sont précisées par le règlement intérieur.
 
@@ -95,13 +93,13 @@ Les membres du bureau peuvent déléguer certaines de leurs attributions dans le
 #### 9.3 Attributions du président et des membres du Bureau
 
 #### 9.3.1 Président
-Le président convoque et préside les Assemblées générales. Il représente l’association dans tous les actes de la vie civile et est investi de tous les pouvoirs à cet effet. Il peut déléguer certaines de ses attributions.
+Le président convoque et préside les Assemblées générales. Il représente l’association dans tous les actes de la vie civile et est investi de tous les pouvoirs à cet effet. Il peut déléguer certaines de ses attributions. Avec le trésorier, il valide les dépenses.
 
-#### 9.3.2 Secrétaire général
-Le secrétaire général est chargé de tout ce qui concerne la correspondance et les archives. Il rédige les procès-verbaux des délibérations et en assure la transcription sur les registres. 
+#### 9.3.2 Secrétaire
+Le secrétaire est chargé de tout ce qui concerne la correspondance et les archives. Il rédige les procès-verbaux des délibérations et en assure la transcription sur les registres. 
 
 #### 9.3.3 Trésorier
-Le trésorier est chargé de tout ce qui concerne la gestion du patrimoine de l’association. Il effectue tous paiements et perçoit toutes recettes sous la surveillance du président.
+Le trésorier est chargé de tout ce qui concerne la gestion du patrimoine de l’association. Avec le président, il valide les dépenses. Il effectue tous paiements et perçoit toutes recettes sous la surveillance du président
 Il tient une comptabilité régulière, au jour, de toutes les opérations et rend compte à l’Assemblée générale, qui statue sur la gestion. 
 
 ## Article 10 : Règlement intérieur
